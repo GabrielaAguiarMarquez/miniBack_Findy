@@ -1,0 +1,21 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "image": "https://example.com/image1.jpg",
+        "title": "Mi primera publicación",
+        "description": "Esta es mi primera publicación en la plataforma",
+        "hashtags": ["#hashtag1", "#hashtag2"],
+        "link": "https://example.com/link1"
+      },
+      {
+        "id": 2,
+        "image": "https://example.com/image2.jpg",
+        "title": "Otra publicación interesante",
+        "description": "Comparto información valiosa en esta publicación",
+        "hashtags": ["#hashtag3", "#hashtag4"],
+        "link": "https://example.com/link2"
+      }
+    ]
+  }
+  
