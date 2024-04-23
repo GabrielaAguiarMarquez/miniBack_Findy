@@ -1,4 +1,20 @@
 {
+    "user": [
+      {
+        "id": 1,
+        "image": "ruta/a/la/imagen.jpg",
+        "username": "nombre_de_usuario",
+        "email": "correo@ejemplo.com",
+        "password": "contraseña_encriptada"
+      },
+      {
+        "id": 2,
+        "image": "ruta/a/la/imagen.jpg",
+        "username": "nombre_de_usuario",
+        "email": "correo@ejemplo.com",
+        "password": "contraseña_encriptada"
+      }
+    ],
     "posts": [
       {
         "id": 1,
